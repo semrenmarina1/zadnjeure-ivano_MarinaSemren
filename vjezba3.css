@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* CSS Document */
+p {
+  color: green;
+  font-family: cursive;
+  font-size: 15px;
+  line-height: 18px;
+  width: 600px;
+  background-color: beige;
+  padding: 18px;
+}
+
+.paragraf_2 {color:aquamarine ;background-color: rgba(255, 0, 245, 0)}
+.novi_blok{
+  background-color:  rgba(255, 0 ,245, 0,5);
+  padding:20px;
+  margin:20px;
+  width: 50%
+}
+h2 {
+  font-family:inherit;
+  color: aqua;
+}
+
+span {color:rgb(255, 0, 200);}
+.pozadina{
+  background-image: url("slike/pozadina1.jpeg");
+  background-color: beige;
+}
+.drugapozadina {
+  background-color: orange;
+}
+
+a {
+  color: black;
+  background-color: beige;
+  padding: 5px;
+  line-height: 40px;
+  border: 1px solid #000000;
+}
+
+a:hover{
+  background-color: blue;
+}
+
+img {
+  height: 250px;
+}
